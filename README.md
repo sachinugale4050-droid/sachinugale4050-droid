@@ -1,6 +1,6 @@
 # Hi, I'm Sachin 👋
 
-### Electronics Student | Embedded Systems & VLSI Learner
+### Electronics Student | Aspiring Embedded Systems Engineer
 
 I'm building a strong foundation in C programming and Embedded Systems, with a focus on microcontrollers, firmware, and hardware-oriented development.
 
@@ -10,17 +10,18 @@ I'm building a strong foundation in C programming and Embedded Systems, with a f
 - Embedded C
 - STM32 Microcontrollers
 - Embedded Systems
+- Firmware Development
 - Digital Electronics
-- VLSI Fundamentals
 - Git & GitHub
 
 ## 📚 Learning Roadmap
 
-C Programming → Embedded C → Microcontrollers → STM32 → RTOS → Embedded Projects → VLSI
+C Programming → Embedded C → Microcontrollers → STM32 → Embedded Projects → RTOS
 
-## 💻 Programming
+## 💻 Programming & Tools
 
 - C
+- Embedded C
 - Git
 - GitHub
 
@@ -29,8 +30,9 @@ C Programming → Embedded C → Microcontrollers → STM32 → RTOS → Embedde
 - Embedded Systems
 - Firmware Development
 - Microcontrollers
-- VLSI
-- Digital Electronics
+- STM32
+- Device Drivers
+- Real-Time Embedded Systems
 - PCB & Electronics Manufacturing
 
 ## 📂 Practice & Projects
@@ -49,13 +51,27 @@ Currently building my C programming foundation through hands-on practice program
 - Structures
 - File Handling
 
+### 🚀 Embedded Systems Projects
+
+Currently learning and developing practical STM32-based embedded projects involving:
+
+- Sensor Interfacing
+- GPIO
+- UART
+- I²C
+- SPI
+- ADC
+- Timers
+- Interrupts
+- Embedded C
+
 ## 🎯 Career Goal
 
-To build strong practical skills in Embedded Systems and VLSI and work on real-world electronics and semiconductor projects.
+To become a skilled Embedded Systems / Firmware Engineer and work on real-world embedded products and electronics systems.
 
 ## 📈 Current Progress
 
-**C Programming → Embedded Foundations → STM32 Projects**
+**C Programming → Embedded C → Microcontrollers → STM32 → Embedded Projects**
 
 ---
 
